@@ -1,3 +1,4 @@
+// main routes is to link the routes with the js scripts
 const express = require("express");
 const router = express.Router();
 

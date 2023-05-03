@@ -10,7 +10,7 @@
     "setup_db": "node dbSetup.js",
     "clear_db": "node dbClear.js"
   },
-  "author": "Siah Peih Wee",
+  "author": "Beckham",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
