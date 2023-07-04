@@ -1,0 +1,22 @@
+{
+  "name": "pract2b25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "postinstall": "cd backend && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peihwee/pract2b25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peihwee/pract2b25/issues"
+  },
+  "homepage": "https://github.com/peihwee/pract2b25#readme"
+}
